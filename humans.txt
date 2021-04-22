@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Pepe    pepe@mail.com		@pepeelpepe
 
 # THANKS
 
